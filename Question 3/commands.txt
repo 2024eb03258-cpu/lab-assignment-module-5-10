@@ -1,1 +1,11 @@
+# Create marks file
+nano marks.txt
 
+# Create script file
+nano validate_results.sh
+
+# Make script executable
+chmod +x validate_results.sh
+
+# Run script
+./validate_results.sh
