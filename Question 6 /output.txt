@@ -1,0 +1,4 @@
+Longest word: 
+Shortest word: 
+Average word length: 0
+Total unique words: 1
