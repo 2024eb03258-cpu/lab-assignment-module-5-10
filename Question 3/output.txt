@@ -1,1 +1,14 @@
+Students failed in exactly ONE subject:
+101,  John Doe
+103,  Bob Wilson
+107,  Frank Green
 
+Students passed in ALL subjects:
+102,  Jane Smith
+104,  Alice Brown
+106,  Diana Evans
+108,  Grace Harris
+110,  Irene King
+
+Count failed in exactly one subject: 3
+Count passed in all subjects: 5
