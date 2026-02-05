@@ -1,1 +1,4 @@
-
+Script PID: 87971
+Moving myfolder/b.txt in background with PID: 87973
+Moving myfolder/c.txt in background with PID: 87974
+All background move operations completed.
