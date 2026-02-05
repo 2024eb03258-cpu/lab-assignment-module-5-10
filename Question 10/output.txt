@@ -1,1 +1,6 @@
-
+Parent running with PID: 99618
+Child 1 sending SIGTERM to parent.
+Parent received SIGTERM (signal 15). Handling termination request.
+Child 2 sending SIGINT to parent.
+Parent received SIGINT (signal 2). Handling interrupt request.
+Parent exiting gracefully after handling signals.
