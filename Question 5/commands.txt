@@ -1,0 +1,18 @@
+# Create directories
+mkdir dirA
+mkdir dirB
+
+# Add test files
+echo "hello" > dirA/file1.txt
+echo "notes" > dirA/shared.txt
+echo "image" > dirB/pic.png
+echo "notes" > dirB/shared.txt
+
+# Create the sync script
+nano sync.sh
+
+# Make it executable
+chmod +x sync.sh
+
+# Run the script
+./sync.sh dirA dirB
