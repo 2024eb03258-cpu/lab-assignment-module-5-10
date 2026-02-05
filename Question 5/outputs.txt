@@ -1,1 +1,8 @@
+Files only in dirA:
+file1.txt
 
+Files only in dirB:
+pic.png
+
+Comparing common files:
+shared.txt: MATCH
