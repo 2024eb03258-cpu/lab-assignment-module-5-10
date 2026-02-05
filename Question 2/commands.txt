@@ -1,1 +1,6 @@
+# Make script executable
+chmod +x logsummary.sh
+
+# Run the script with a log file
+./logsummary.sh logfile.txt
 
