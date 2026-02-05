@@ -1,0 +1,11 @@
+# Create input file
+nano input.txt
+
+# Create the metrics script
+nano metrics.sh
+
+# Make it executable
+chmod +x metrics.sh
+
+# Run the script
+./metrics.sh
