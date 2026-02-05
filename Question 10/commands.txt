@@ -1,0 +1,2 @@
+gcc signal_demo.c -o signal_demo
+./signal_demo
