@@ -1,0 +1,11 @@
+# Create input file
+input.txt
+
+# Create the patterns script
+patterns.sh
+
+# Make it executable
+chmod +x patterns.sh
+
+# Run the script
+./patterns.sh
