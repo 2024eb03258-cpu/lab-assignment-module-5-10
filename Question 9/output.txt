@@ -1,1 +1,7 @@
-
+Child 1 started with PID: 95019
+Child 2 started with PID: 95020
+Child 3 started with PID: 95021
+Parent cleaned up child with PID: 95019
+Parent cleaned up child with PID: 95020
+Parent cleaned up child with PID: 95021
+All children cleaned. No zombies remain.
