@@ -1,0 +1,10 @@
+Processing: sample.log
+----------------
+Lines: 7
+INFO:    3
+WARNING: 2
+ERROR:   3
+Last ERROR: 2025-01-12 10:21:05 ERROR Database connection failed
+----------------
+Creating report: logsummary_20260205.txt
+Report saved!
