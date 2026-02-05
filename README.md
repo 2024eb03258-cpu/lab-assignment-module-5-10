@@ -3,10 +3,9 @@
 # Operating Systems Lab Assignment
 
 ## Student Information
-- **Name**: [Your Name]
-- **Roll Number**: [Your Roll Number]
-- **Date**: [Submission Date]
-- **Course**: Operating Systems Lab
+- **Name**: Nida Fatima
+- **Date**: 5th February 2026
+- **Course**: CLIS
 
 ## Assignment Overview
 This repository contains solutions to 10 shell scripting and C programming questions covering various operating system concepts including process management, file operations, text processing, and signal handling.
