@@ -1,0 +1,9 @@
+# Create a test directory
+mkdir myfolder
+
+# Add files
+touch myfolder/.txt myfolder/b.txt myfolder/c.txt
+
+# Run the script
+./bg_move.sh myfolder
+
