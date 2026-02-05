@@ -1,1 +1,11 @@
+VALID EMAILS:
+ali123@gmail.com
+hello@domain.com
+test123@yahoo.com
+
+INVALID EMAILS:
+sara@@gmail.com
+omar_22@outlook.com
+lina.com
+bademail@com
 
