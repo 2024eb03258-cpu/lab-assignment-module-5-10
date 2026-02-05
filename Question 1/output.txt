@@ -1,1 +1,25 @@
+=== Question 1 Outputs ===
+
+Test 1: File analysis
+Analyzing file: test.txt
+Number of lines: 3
+Number of words: 12
+Number of characters: 36
+
+Test 2: Directory analysis
+Analyzing directory: test_dir
+Total files in directory: 3
+Number of .txt files: 2
+
+Test 3: No arguments error
+Error: Please provide exactly one argument
+Usage: ./analyze.sh <file_or_directory_path>
+
+Test 4: Invalid path error
+Error: Path '/nonexistent/path' does not exist
+
+Test 5: Current directory
+Analyzing directory: .
+Total files in directory: 4
+Number of .txt files: 2
 
