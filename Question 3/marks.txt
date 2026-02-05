@@ -1,0 +1,10 @@
+101, John Doe, 45, 30, 60
+102, Jane Smith, 80, 85, 90
+103, Bob Wilson, 25, 40, 50
+104, Alice Brown, 35, 35, 35
+105, Charlie Davis, 20, 25, 30
+106, Diana Evans, 75, 80, 85
+107, Frank Green, 40, 30, 45
+108, Grace Harris, 90, 92, 88
+109, Henry Clark, 32, 28, 35
+110, Irene King, 50, 45, 55
