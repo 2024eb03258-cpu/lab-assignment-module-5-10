@@ -1,9 +1,12 @@
 # Create a test directory
-mkdir myfolder
+myfolder
 
 # Add files
-touch myfolder/.txt myfolder/b.txt myfolder/c.txt
+.txt 
+b.txt 
+c.txt
 
 # Run the script
+chmod +x bg_move.sh
 ./bg_move.sh myfolder
 
