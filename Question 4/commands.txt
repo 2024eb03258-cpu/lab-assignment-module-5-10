@@ -1,1 +1,12 @@
+# Create the emails file
+nano emails.txt
+
+# Create the email cleaner script
+nano emailcleaner.sh
+
+# Make the script executable
+chmod +x emailcleaner.sh
+
+# Run the script to generate valid.txt and invalid.txt
+./emailcleaner.sh
 
