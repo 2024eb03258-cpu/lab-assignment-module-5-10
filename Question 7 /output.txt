@@ -1,1 +1,15 @@
+Vowels:
+a
+u
+o
+
+Consonants:
+sky
+rhythm
+crypt
+fly
+
+Mixed:
+queue
+book
 
